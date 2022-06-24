@@ -1,6 +1,6 @@
 This project was made for the course ECE -GY - 6023 , Tandon School Of Engineeering ,NYU , 2022
 
-#Measuring the channel frequency and time
+%Measuring the channel frequency and time
 response through simple channel sounding using
 software defined radio.
 
